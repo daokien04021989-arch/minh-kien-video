@@ -1,0 +1,24 @@
+name: Hen dang video (Buffer)
+on:
+  push:
+    paths: ["lich/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: dang-bai
+jobs:
+  dang:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hen dang
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: python3 scripts/dang_buffer.py
+      - name: Luu ket qua
+        if: always()
+        run: |
+          git config user.name "minh-kien-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add lich/da_dang || true
+          git diff --cached --quiet || (git commit -m "Ket qua hen dang [skip ci]" && git push)
