@@ -60,7 +60,7 @@ for f in sorted(glob.glob("lich/*.json")):
         if p == "youtube":
             inp["metadata"] = {"youtube": {"title": job["yt_title"][:100], "categoryId": "26", "privacy": "public",
                                "license": "youtube", "madeForKids": False, "notifySubscribers": True}}
-        tries = [None]
+        tries = [None]; ai = bool(job.get("ai_voice")); m = inp.setdefault("metadata", {}); (m.setdefault("tiktok", {}).update(isAiGenerated=ai) if p == "tiktok" else m.get("youtube", {}).update(isAiGenerated=ai))
         if p == "facebook":
             tries = ["reel", "post"]
         last = None
