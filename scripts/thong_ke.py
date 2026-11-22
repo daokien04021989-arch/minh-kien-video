@@ -19,7 +19,7 @@ res = {"cap_nhat": dt.datetime.now(dt.timezone.utc).isoformat(), "bai": [], "loi
 for st in (["sent"], ["error"], ["scheduled"]):
     after = None
     for _ in range(10):
-        d = gql(Q, {"i": {"organizationId": org, "filter": {"status": st, "startDate": start}}, "a": after})["posts"]
+        d = gql(Q, {"i": {"organizationId": org, "filter": {"status": st, "channelIds": list(cmap)}}, "a": after})["posts"]
         for e in d["edges"]:
             n = e["node"]; c = cmap.get(n["channelId"], {})
             row = {"kenh": c.get("service"), "gio": n.get("dueAt"), "trang_thai": n.get("status"),
