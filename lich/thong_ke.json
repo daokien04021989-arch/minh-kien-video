@@ -1,6 +1,18 @@
 {
- "cap_nhat": "2026-11-22T19:43:23.737707+00:00",
+ "cap_nhat": "2026-11-23T07:40:29.966988+00:00",
  "bai": [
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-23T04:00:54.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "",
+   "so_lieu": {
+    "Reach": 0,
+    "Replies": 0,
+    "Reactions": 0,
+    "Shares": 0
+   }
+  },
   {
    "kenh": "facebook",
    "gio": "2026-11-22T13:30:49.000Z",
@@ -11,6 +23,49 @@
     "Replies": 0,
     "Reactions": 0,
     "Shares": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-23T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Anh chị thích báo giá theo mét hay theo kg? 👇\nHành trình xưởng Minh Kiên – Tập 7: Vì sao b",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-23T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Anh chị thích báo giá theo mét hay theo kg? 👇\nHành trình xưởng Minh Kiên – Tập 7: Vì sao b",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-23T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Báo giá theo mét hay theo kg? Tập 7: Vì sao bản vẽ ghi số cây, số kg? #xuhuong #cokhi #cok",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
    }
   },
   {
@@ -34,10 +89,10 @@
    "trang_thai": "sent",
    "noi_dung": "Lan can nhà anh chị dùng hộp dày hay mỏng? 👇\nHành trình xưởng Minh Kiên – Tập 6: Hộp dày b",
    "so_lieu": {
-    "Reactions": 0,
+    "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0
+    "Eng. Rate": 0.54,
+    "Video Views": 369
    }
   },
   {
@@ -2577,6 +2632,92 @@
   },
   {
    "kenh": "facebook",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-23T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi bài này cho anh em nhé 👇\nHành trình xưởng Minh Kiê",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Gia công cầu thang xương cá, hàn bát đỡ bậc – xưởng sắt inox Bắc Ninh #cokhiminhkien #giac",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-23T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Nhận cắt laser ống hộp, gia công sắt inox Bắc Ninh cho anh em thợ – Tập 9 #cokhiminhkien #",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-23T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi bài này cho anh em nhé 👇\nHành trình xưởng Minh Kiê",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
    "gio": "2026-11-25T04:00:00.000Z",
    "trang_thai": "scheduled",
    "noi_dung": "Lan can cong: anh chị chọn uốn nguyên cây hay cắt ghép? 👇\nHành trình xưởng Minh Kiên – Tập",
@@ -2607,49 +2748,6 @@
    "gio": "2026-11-25T04:00:00.000Z",
    "trang_thai": "scheduled",
    "noi_dung": "Lan can cong: uốn hay cắt ghép? Tập 10 #xuhuong #cokhi #cokhiminhkien #lancan",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0,
-    "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 0,
-    "Avg. Watch Time (sec)": 0
-   }
-  },
-  {
-   "kenh": "facebook",
-   "gio": "2026-11-23T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Anh chị thích báo giá theo mét hay theo kg? 👇\nHành trình xưởng Minh Kiên – Tập 7: Vì sao b",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Impressions": 0,
-    "Reach": 0,
-    "Shares": 0,
-    "Clicks": 0
-   }
-  },
-  {
-   "kenh": "youtube",
-   "gio": "2026-11-23T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Anh chị thích báo giá theo mét hay theo kg? 👇\nHành trình xưởng Minh Kiên – Tập 7: Vì sao b",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0
-   }
-  },
-  {
-   "kenh": "tiktok",
-   "gio": "2026-11-23T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Báo giá theo mét hay theo kg? Tập 7: Vì sao bản vẽ ghi số cây, số kg? #xuhuong #cokhi #cok",
    "so_lieu": {
     "Reactions": 0,
     "Comments": 0,
