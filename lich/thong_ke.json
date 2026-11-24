@@ -1,5 +1,5 @@
 {
- "cap_nhat": "2026-11-24T09:55:45.534745+00:00",
+ "cap_nhat": "2026-11-24T22:27:27.248197+00:00",
  "bai": [
   {
    "kenh": "facebook",
@@ -2726,6 +2726,49 @@
     "Reach": 26512,
     "Watch Time (min)": 2933.72,
     "Avg. Watch Time (sec)": 4.31
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-25T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Nhà sắp có đám cưới, anh chị làm cổng mới kiểu nào? Gửi cho anh em thợ đang cần 👇\nHành trì",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-25T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Làm cổng sắt mới cho nhà cưới – cắt laser ống hộp, gia công sắt inox Bắc Ninh. Tập 12 #cok",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-25T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Nhà sắp có đám cưới, anh chị làm cổng mới kiểu nào? Gửi cho anh em thợ đang cần 👇\nHành trì",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
    }
   },
   {
