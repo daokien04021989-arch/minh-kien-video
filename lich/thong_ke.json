@@ -1,6 +1,18 @@
 {
- "cap_nhat": "2026-11-23T23:54:55.249171+00:00",
+ "cap_nhat": "2026-11-24T09:55:45.534745+00:00",
  "bai": [
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-24T04:01:11.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "",
+   "so_lieu": {
+    "Reach": 0,
+    "Replies": 0,
+    "Reactions": 0,
+    "Shares": 0
+   }
+  },
   {
    "kenh": "facebook",
    "gio": "2026-11-23T12:31:15.000Z",
@@ -27,6 +39,33 @@
   },
   {
    "kenh": "facebook",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 1,
+    "Reach": 1,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
    "gio": "2026-11-23T12:30:00.000Z",
    "trang_thai": "sent",
    "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi bài này cho anh em nhé 👇\nHành trình xưởng Minh Kiê",
@@ -34,10 +73,26 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 0,
-    "Reach": 0,
+    "Impressions": 204,
+    "Reach": 198,
     "Shares": 0,
     "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-24T04:00:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Gia công cầu thang xương cá, hàn bát đỡ bậc – xưởng sắt inox Bắc Ninh #cokhiminhkien #giac",
+   "so_lieu": {
+    "Reactions": 4,
+    "Comments": 0,
+    "Eng. Rate": 8.89,
+    "Video Views": 45,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 5.1,
+    "Avg. Watch Time (sec)": 5.2
    }
   },
   {
@@ -49,11 +104,11 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 0,
+    "Video Views": 113,
     "Shares": 0,
     "Reach": 0,
-    "Watch Time (min)": 0,
-    "Avg. Watch Time (sec)": 0
+    "Watch Time (min)": 9.32,
+    "Avg. Watch Time (sec)": 4.34
    }
   },
   {
@@ -77,8 +132,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 67,
-    "Reach": 65,
+    "Impressions": 88,
+    "Reach": 82,
     "Shares": 0,
     "Clicks": 0
    }
@@ -101,14 +156,14 @@
    "trang_thai": "sent",
    "noi_dung": "Báo giá theo mét hay theo kg? Tập 7: Vì sao bản vẽ ghi số cây, số kg? #xuhuong #cokhi #cok",
    "so_lieu": {
-    "Reactions": 2,
+    "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 3.39,
-    "Video Views": 59,
+    "Eng. Rate": 3.33,
+    "Video Views": 90,
     "Shares": 0,
     "Reach": 0,
-    "Watch Time (min)": 4.83,
-    "Avg. Watch Time (sec)": 4.61
+    "Watch Time (min)": 8.38,
+    "Avg. Watch Time (sec)": 4.5
    }
   },
   {
@@ -120,7 +175,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 60,
+    "Impressions": 63,
     "Reach": 52,
     "Shares": 0,
     "Clicks": 0
@@ -146,12 +201,12 @@
    "so_lieu": {
     "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 3.9,
-    "Video Views": 77,
+    "Eng. Rate": 3.66,
+    "Video Views": 82,
     "Shares": 0,
     "Reach": 0,
-    "Watch Time (min)": 18.98,
-    "Avg. Watch Time (sec)": 12.25
+    "Watch Time (min)": 19.52,
+    "Avg. Watch Time (sec)": 11.6
    }
   },
   {
@@ -327,9 +382,9 @@
    "so_lieu": {
     "Reactions": 0,
     "Comments": 1,
-    "Eng. Rate": 1.92,
-    "Impressions": 52,
-    "Reach": 43,
+    "Eng. Rate": 1.75,
+    "Impressions": 57,
+    "Reach": 47,
     "Shares": 0,
     "Clicks": 0
    }
@@ -733,8 +788,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 317,
-    "Reach": 291,
+    "Impressions": 320,
+    "Reach": 292,
     "Shares": 0,
     "Clicks": 0
    }
@@ -853,8 +908,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 344,
-    "Reach": 290,
+    "Impressions": 356,
+    "Reach": 301,
     "Shares": 0,
     "Clicks": 0
    }
@@ -897,12 +952,12 @@
    "so_lieu": {
     "Reactions": 5,
     "Comments": 1,
-    "Eng. Rate": 4.03,
-    "Video Views": 149,
+    "Eng. Rate": 4,
+    "Video Views": 150,
     "Shares": 0,
     "Reach": 139,
-    "Watch Time (min)": 9.82,
-    "Avg. Watch Time (sec)": 3.88
+    "Watch Time (min)": 9.4,
+    "Avg. Watch Time (sec)": 3.71
    }
   },
   {
@@ -925,12 +980,12 @@
    "so_lieu": {
     "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 2.42,
-    "Video Views": 124,
+    "Eng. Rate": 2.4,
+    "Video Views": 125,
     "Shares": 0,
     "Reach": 121,
-    "Watch Time (min)": 9.87,
-    "Avg. Watch Time (sec)": 4.39
+    "Watch Time (min)": 8.85,
+    "Avg. Watch Time (sec)": 3.9
    }
   },
   {
@@ -953,10 +1008,10 @@
    "so_lieu": {
     "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 1.29,
-    "Video Views": 155,
+    "Eng. Rate": 1.28,
+    "Video Views": 156,
     "Shares": 0,
-    "Reach": 154,
+    "Reach": 155,
     "Watch Time (min)": 12.63,
     "Avg. Watch Time (sec)": 4.8
    }
@@ -981,12 +1036,12 @@
    "so_lieu": {
     "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 1.64,
-    "Video Views": 183,
+    "Eng. Rate": 1.63,
+    "Video Views": 184,
     "Shares": 0,
-    "Reach": 182,
+    "Reach": 183,
     "Watch Time (min)": 23.9,
-    "Avg. Watch Time (sec)": 7.17
+    "Avg. Watch Time (sec)": 7.13
    }
   },
   {
@@ -1009,12 +1064,12 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 3.51,
-    "Video Views": 114,
+    "Eng. Rate": 3.48,
+    "Video Views": 115,
     "Shares": 0,
     "Reach": 109,
-    "Watch Time (min)": 7.67,
-    "Avg. Watch Time (sec)": 3.97
+    "Watch Time (min)": 7.28,
+    "Avg. Watch Time (sec)": 3.58
    }
   },
   {
@@ -1037,8 +1092,8 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.88,
-    "Video Views": 114,
+    "Eng. Rate": 0.87,
+    "Video Views": 115,
     "Shares": 0,
     "Reach": 112,
     "Watch Time (min)": 7.53,
@@ -1093,12 +1148,12 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 1,
-    "Eng. Rate": 3.5,
-    "Video Views": 143,
+    "Eng. Rate": 3.45,
+    "Video Views": 145,
     "Shares": 0,
-    "Reach": 142,
-    "Watch Time (min)": 15.78,
-    "Avg. Watch Time (sec)": 6.07
+    "Reach": 143,
+    "Watch Time (min)": 15.8,
+    "Avg. Watch Time (sec)": 6.04
    }
   },
   {
@@ -1122,7 +1177,7 @@
     "Reactions": 2,
     "Comments": 0,
     "Eng. Rate": 1.18,
-    "Video Views": 169,
+    "Video Views": 170,
     "Shares": 0,
     "Reach": 166,
     "Watch Time (min)": 16.92,
@@ -1177,8 +1232,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 3.16,
-    "Video Views": 158,
+    "Eng. Rate": 3.14,
+    "Video Views": 159,
     "Shares": 1,
     "Reach": 156,
     "Watch Time (min)": 12.03,
@@ -1205,8 +1260,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 2.53,
-    "Video Views": 158,
+    "Eng. Rate": 2.5,
+    "Video Views": 160,
     "Shares": 0,
     "Reach": 157,
     "Watch Time (min)": 16.8,
@@ -1231,10 +1286,10 @@
    "trang_thai": "sent",
    "noi_dung": "Sen hoa cửa sổ inox – xưởng mình vừa lắp xong Nhà khung cửa vân gỗ nên anh em làm inox bón",
    "so_lieu": {
-    "Reactions": 2,
+    "Reactions": 5,
     "Comments": 0,
-    "Eng. Rate": 0.45,
-    "Video Views": 449,
+    "Eng. Rate": 1.08,
+    "Video Views": 464,
     "Shares": 0,
     "Reach": 366,
     "Watch Time (min)": 31.38,
@@ -1289,8 +1344,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 2.55,
-    "Video Views": 157,
+    "Eng. Rate": 2.53,
+    "Video Views": 158,
     "Shares": 0,
     "Reach": 156,
     "Watch Time (min)": 16.42,
@@ -1444,9 +1499,9 @@
     "Eng. Rate": 1.92,
     "Video Views": 156,
     "Shares": 0,
-    "Reach": 147,
-    "Watch Time (min)": 15.28,
-    "Avg. Watch Time (sec)": 5.63
+    "Reach": 148,
+    "Watch Time (min)": 15.33,
+    "Avg. Watch Time (sec)": 5.61
    }
   },
   {
@@ -1498,7 +1553,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 148,
+    "Video Views": 149,
     "Shares": 0,
     "Reach": 147,
     "Watch Time (min)": 13.22,
@@ -1525,12 +1580,12 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 2,
-    "Eng. Rate": 4,
-    "Video Views": 275,
+    "Eng. Rate": 3.99,
+    "Video Views": 276,
     "Shares": 3,
-    "Reach": 254,
+    "Reach": 255,
     "Watch Time (min)": 18.9,
-    "Avg. Watch Time (sec)": 3.94
+    "Avg. Watch Time (sec)": 3.92
    }
   },
   {
@@ -1554,7 +1609,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 126,
+    "Video Views": 127,
     "Shares": 0,
     "Reach": 123,
     "Watch Time (min)": 6.78,
@@ -2671,49 +2726,6 @@
     "Reach": 26512,
     "Watch Time (min)": 2933.72,
     "Avg. Watch Time (sec)": 4.31
-   }
-  },
-  {
-   "kenh": "facebook",
-   "gio": "2026-11-24T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Impressions": 0,
-    "Reach": 0,
-    "Shares": 0,
-    "Clicks": 0
-   }
-  },
-  {
-   "kenh": "youtube",
-   "gio": "2026-11-24T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Cầu thang xương cá nhà anh chị dầm giữa hay hai bên? Gửi cho anh em thợ đang cần 👇\nHành tr",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0
-   }
-  },
-  {
-   "kenh": "tiktok",
-   "gio": "2026-11-24T04:00:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Gia công cầu thang xương cá, hàn bát đỡ bậc – xưởng sắt inox Bắc Ninh #cokhiminhkien #giac",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0,
-    "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 0,
-    "Avg. Watch Time (sec)": 0
    }
   },
   {
