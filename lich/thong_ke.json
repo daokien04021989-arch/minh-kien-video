@@ -1,5 +1,5 @@
 {
- "cap_nhat": "2026-11-26T21:33:27.277692+00:00",
+ "cap_nhat": "2026-11-27T08:36:14.652932+00:00",
  "bai": [
   {
    "kenh": "facebook",
@@ -33,9 +33,9 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.44,
-    "Impressions": 229,
-    "Reach": 199,
+    "Eng. Rate": 0.42,
+    "Impressions": 239,
+    "Reach": 205,
     "Shares": 0,
     "Clicks": 0
    }
@@ -46,14 +46,14 @@
    "trang_thai": "sent",
    "noi_dung": "Làm cổng sắt mới cho nhà cưới – cắt laser ống hộp, gia công sắt inox Bắc Ninh. Tập 12 #cok",
    "so_lieu": {
-    "Reactions": 1,
+    "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 1.28,
-    "Video Views": 78,
+    "Eng. Rate": 2.38,
+    "Video Views": 84,
     "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 7.18,
-    "Avg. Watch Time (sec)": 4.4
+    "Reach": 38,
+    "Watch Time (min)": 7.98,
+    "Avg. Watch Time (sec)": 4.52
    }
   },
   {
@@ -64,8 +64,8 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.16,
-    "Video Views": 629
+    "Eng. Rate": 0.13,
+    "Video Views": 773
    }
   },
   {
@@ -113,8 +113,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 5,
-    "Reach": 5,
+    "Impressions": 6,
+    "Reach": 6,
     "Shares": 0,
     "Clicks": 0
    }
@@ -154,12 +154,12 @@
    "so_lieu": {
     "Reactions": 5,
     "Comments": 0,
-    "Eng. Rate": 4.72,
-    "Video Views": 106,
+    "Eng. Rate": 4.63,
+    "Video Views": 108,
     "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 10.42,
-    "Avg. Watch Time (sec)": 4.93
+    "Reach": 106,
+    "Watch Time (min)": 10.5,
+    "Avg. Watch Time (sec)": 4.85
    }
   },
   {
@@ -173,7 +173,7 @@
     "Eng. Rate": 0,
     "Video Views": 118,
     "Shares": 0,
-    "Reach": 100,
+    "Reach": 118,
     "Watch Time (min)": 9.63,
     "Avg. Watch Time (sec)": 4.28
    }
@@ -199,8 +199,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 165,
-    "Reach": 151,
+    "Impressions": 166,
+    "Reach": 152,
     "Shares": 0,
     "Clicks": 0
    }
@@ -214,7 +214,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 48
+    "Video Views": 80
    }
   },
   {
@@ -225,12 +225,12 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 1.12,
-    "Video Views": 89,
+    "Eng. Rate": 1.1,
+    "Video Views": 91,
     "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 5.9,
-    "Avg. Watch Time (sec)": 3.28
+    "Reach": 88,
+    "Watch Time (min)": 6,
+    "Avg. Watch Time (sec)": 3.22
    }
   },
   {
@@ -285,8 +285,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 64,
-    "Reach": 53,
+    "Impressions": 65,
+    "Reach": 54,
     "Shares": 0,
     "Clicks": 0
    }
@@ -314,9 +314,9 @@
     "Eng. Rate": 3.53,
     "Video Views": 85,
     "Shares": 0,
-    "Reach": 82,
-    "Watch Time (min)": 19.7,
-    "Avg. Watch Time (sec)": 11.37
+    "Reach": 85,
+    "Watch Time (min)": 19.72,
+    "Avg. Watch Time (sec)": 11.28
    }
   },
   {
@@ -492,9 +492,9 @@
    "so_lieu": {
     "Reactions": 0,
     "Comments": 1,
-    "Eng. Rate": 1.35,
-    "Impressions": 74,
-    "Reach": 58,
+    "Eng. Rate": 1.23,
+    "Impressions": 81,
+    "Reach": 64,
     "Shares": 0,
     "Clicks": 0
    }
@@ -1018,8 +1018,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 376,
-    "Reach": 317,
+    "Impressions": 387,
+    "Reach": 322,
     "Shares": 0,
     "Clicks": 0
    }
@@ -1067,7 +1067,7 @@
     "Shares": 0,
     "Reach": 142,
     "Watch Time (min)": 9.72,
-    "Avg. Watch Time (sec)": 3.76
+    "Avg. Watch Time (sec)": 3.74
    }
   },
   {
@@ -1093,9 +1093,9 @@
     "Eng. Rate": 2.34,
     "Video Views": 128,
     "Shares": 0,
-    "Reach": 124,
-    "Watch Time (min)": 9.1,
-    "Avg. Watch Time (sec)": 3.93
+    "Reach": 128,
+    "Watch Time (min)": 9.23,
+    "Avg. Watch Time (sec)": 3.85
    }
   },
   {
@@ -1121,9 +1121,9 @@
     "Eng. Rate": 1.27,
     "Video Views": 158,
     "Shares": 0,
-    "Reach": 157,
-    "Watch Time (min)": 12.47,
-    "Avg. Watch Time (sec)": 4.32
+    "Reach": 158,
+    "Watch Time (min)": 12.48,
+    "Avg. Watch Time (sec)": 4.3
    }
   },
   {
@@ -1149,9 +1149,9 @@
     "Eng. Rate": 1.61,
     "Video Views": 186,
     "Shares": 0,
-    "Reach": 184,
-    "Watch Time (min)": 23.92,
-    "Avg. Watch Time (sec)": 7.1
+    "Reach": 185,
+    "Watch Time (min)": 23.95,
+    "Avg. Watch Time (sec)": 7.08
    }
   },
   {
@@ -1177,9 +1177,9 @@
     "Eng. Rate": 3.45,
     "Video Views": 116,
     "Shares": 0,
-    "Reach": 110,
+    "Reach": 111,
     "Watch Time (min)": 7.28,
-    "Avg. Watch Time (sec)": 3.55
+    "Avg. Watch Time (sec)": 3.5
    }
   },
   {
@@ -1202,12 +1202,12 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.85,
-    "Video Views": 118,
+    "Eng. Rate": 0.84,
+    "Video Views": 119,
     "Shares": 0,
-    "Reach": 113,
-    "Watch Time (min)": 7.55,
-    "Avg. Watch Time (sec)": 3.6
+    "Reach": 116,
+    "Watch Time (min)": 7.62,
+    "Avg. Watch Time (sec)": 3.54
    }
   },
   {
@@ -1261,9 +1261,9 @@
     "Eng. Rate": 3.42,
     "Video Views": 146,
     "Shares": 0,
-    "Reach": 145,
-    "Watch Time (min)": 16.35,
-    "Avg. Watch Time (sec)": 6.09
+    "Reach": 146,
+    "Watch Time (min)": 16.37,
+    "Avg. Watch Time (sec)": 6.06
    }
   },
   {
@@ -1317,9 +1317,9 @@
     "Eng. Rate": 1.12,
     "Video Views": 179,
     "Shares": 0,
-    "Reach": 173,
-    "Watch Time (min)": 17.53,
-    "Avg. Watch Time (sec)": 5.51
+    "Reach": 174,
+    "Watch Time (min)": 17.57,
+    "Avg. Watch Time (sec)": 5.49
    }
   },
   {
@@ -1331,7 +1331,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 13
+    "Video Views": 14
    }
   },
   {
@@ -1345,8 +1345,8 @@
     "Eng. Rate": 3.03,
     "Video Views": 165,
     "Shares": 1,
-    "Reach": 159,
-    "Watch Time (min)": 12.2,
+    "Reach": 165,
+    "Watch Time (min)": 12.62,
     "Avg. Watch Time (sec)": 4.18
    }
   },
@@ -1370,8 +1370,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 2.5,
-    "Video Views": 160,
+    "Eng. Rate": 2.47,
+    "Video Views": 162,
     "Shares": 0,
     "Reach": 159,
     "Watch Time (min)": 16.85,
@@ -1398,12 +1398,12 @@
    "so_lieu": {
     "Reactions": 5,
     "Comments": 0,
-    "Eng. Rate": 1.02,
-    "Video Views": 492,
+    "Eng. Rate": 0.99,
+    "Video Views": 507,
     "Shares": 0,
-    "Reach": 412,
-    "Watch Time (min)": 36.3,
-    "Avg. Watch Time (sec)": 4.28
+    "Reach": 427,
+    "Watch Time (min)": 36.78,
+    "Avg. Watch Time (sec)": 4.19
    }
   },
   {
@@ -1457,9 +1457,9 @@
     "Eng. Rate": 2.53,
     "Video Views": 158,
     "Shares": 0,
-    "Reach": 157,
+    "Reach": 158,
     "Watch Time (min)": 16.55,
-    "Avg. Watch Time (sec)": 5.91
+    "Avg. Watch Time (sec)": 5.84
    }
   },
   {
@@ -1634,8 +1634,8 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 1,
-    "Eng. Rate": 5.71,
-    "Video Views": 140,
+    "Eng. Rate": 5.67,
+    "Video Views": 141,
     "Shares": 1,
     "Reach": 138,
     "Watch Time (min)": 12.17,
@@ -1690,12 +1690,12 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 2,
-    "Eng. Rate": 3.94,
-    "Video Views": 279,
+    "Eng. Rate": 3.91,
+    "Video Views": 281,
     "Shares": 3,
-    "Reach": 262,
-    "Watch Time (min)": 19.08,
-    "Avg. Watch Time (sec)": 3.87
+    "Reach": 266,
+    "Watch Time (min)": 19.12,
+    "Avg. Watch Time (sec)": 3.82
    }
   },
   {
@@ -1758,8 +1758,8 @@
    "so_lieu": {
     "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 1.39,
-    "Video Views": 144,
+    "Eng. Rate": 1.38,
+    "Video Views": 145,
     "Shares": 0,
     "Reach": 144,
     "Watch Time (min)": 8.17,
@@ -1802,12 +1802,12 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 1,
-    "Eng. Rate": 4.02,
-    "Video Views": 199,
+    "Eng. Rate": 3.9,
+    "Video Views": 205,
     "Shares": 1,
-    "Reach": 181,
-    "Watch Time (min)": 17.78,
-    "Avg. Watch Time (sec)": 4.99
+    "Reach": 187,
+    "Watch Time (min)": 17.88,
+    "Avg. Watch Time (sec)": 4.86
    }
   },
   {
@@ -1830,8 +1830,8 @@
    "so_lieu": {
     "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 2.68,
-    "Video Views": 112,
+    "Eng. Rate": 2.65,
+    "Video Views": 113,
     "Shares": 0,
     "Reach": 110,
     "Watch Time (min)": 10.25,
@@ -2836,6 +2836,92 @@
     "Reach": 26512,
     "Watch Time (min)": 2933.72,
     "Avg. Watch Time (sec)": 4.31
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-28T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Hộp cắt khe sẵn thế này, anh em thợ về chỉ việc hàn – anh em nào đang cần? Gửi cho anh em ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-28T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Cắt laser ống hộp, khe cắm nan vừa khít – gia công sắt inox Bắc Ninh. Tập 12 #cokhiminhkie",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-28T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Hộp cắt khe sẵn thế này, anh em thợ về chỉ việc hàn – anh em nào đang cần? Gửi cho anh em ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Nhận cắt laser ống hộp cho anh em thợ – gia công sắt inox Bắc Ninh. Tập 12 #cokhiminhkien ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
    }
   }
  ],
