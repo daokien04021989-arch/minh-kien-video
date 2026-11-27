@@ -1,6 +1,61 @@
 {
- "cap_nhat": "2026-11-27T08:36:14.652932+00:00",
+ "cap_nhat": "2026-11-27T21:18:42.281304+00:00",
  "bai": [
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-27T12:31:14.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "",
+   "so_lieu": {
+    "Reach": 0,
+    "Replies": 0,
+    "Reactions": 0,
+    "Shares": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-27T12:30:00.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Nhận cắt laser ống hộp cho anh em thợ – gia công sắt inox Bắc Ninh. Tập 12 #cokhiminhkien ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
   {
    "kenh": "facebook",
    "gio": "2026-11-25T12:31:15.000Z",
@@ -2840,6 +2895,49 @@
   },
   {
    "kenh": "youtube",
+   "gio": "2026-11-29T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Cây hộp to cần cắt dọc: kẻ mực cắt tay, hay cho máy laser chạy theo file?\nHành trình xưởng",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-29T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Cây hộp to cần cắt dọc: kẻ mực cắt tay, hay cho máy laser chạy theo file?\nHành trình xưởng",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 0,
+    "Reach": 0,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-29T04:00:00.000Z",
+   "trang_thai": "scheduled",
+   "noi_dung": "Hộp to cắt dọc: cắt tay hay laser chạy theo file? Tập 13 – Zalo 0973 929 807 #xuhuong #cok",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
+  {
+   "kenh": "youtube",
    "gio": "2026-11-28T12:30:00.000Z",
    "trang_thai": "scheduled",
    "noi_dung": "Hộp cắt khe sẵn thế này, anh em thợ về chỉ việc hàn – anh em nào đang cần? Gửi cho anh em ",
@@ -2879,49 +2977,6 @@
     "Reach": 0,
     "Shares": 0,
     "Clicks": 0
-   }
-  },
-  {
-   "kenh": "youtube",
-   "gio": "2026-11-27T12:30:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0
-   }
-  },
-  {
-   "kenh": "facebook",
-   "gio": "2026-11-27T12:30:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Impressions": 0,
-    "Reach": 0,
-    "Shares": 0,
-    "Clicks": 0
-   }
-  },
-  {
-   "kenh": "tiktok",
-   "gio": "2026-11-27T12:30:00.000Z",
-   "trang_thai": "scheduled",
-   "noi_dung": "Nhận cắt laser ống hộp cho anh em thợ – gia công sắt inox Bắc Ninh. Tập 12 #cokhiminhkien ",
-   "so_lieu": {
-    "Reactions": 0,
-    "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0,
-    "Shares": 0,
-    "Reach": 0,
-    "Watch Time (min)": 0,
-    "Avg. Watch Time (sec)": 0
    }
   }
  ],
