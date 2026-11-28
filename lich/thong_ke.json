@@ -1,6 +1,61 @@
 {
- "cap_nhat": "2026-11-27T21:18:42.281304+00:00",
+ "cap_nhat": "2026-11-28T07:50:41.094624+00:00",
  "bai": [
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-28T03:58:16.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "",
+   "so_lieu": {
+    "Reach": 0,
+    "Replies": 0,
+    "Reactions": 0,
+    "Shares": 0
+   }
+  },
+  {
+   "kenh": "facebook",
+   "gio": "2026-11-28T03:57:41.000Z",
+   "trang_thai": "sent",
+   "noi_dung": "Cổng inox cắt laser sẵn khe – anh em thợ khỏi đục từng cây\n\nBộ cổng inox này xưởng mình cắ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Impressions": 22,
+    "Reach": 12,
+    "Shares": 0,
+    "Clicks": 0
+   }
+  },
+  {
+   "kenh": "youtube",
+   "gio": "2026-11-28T03:58:42.789Z",
+   "trang_thai": "sent",
+   "noi_dung": "Bộ cổng inox xưởng Minh Kiên cắt laser cả bộ theo bản vẽ: khung có sẵn khe, nan cắt đúng đ",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0
+   }
+  },
+  {
+   "kenh": "tiktok",
+   "gio": "2026-11-28T03:58:02.890Z",
+   "trang_thai": "sent",
+   "noi_dung": "Cổng inox cắt laser sẵn khe – nan cắm vào là khít, anh em thợ khỏi đục từng cây. Gửi bản v",
+   "so_lieu": {
+    "Reactions": 0,
+    "Comments": 0,
+    "Eng. Rate": 0,
+    "Video Views": 0,
+    "Shares": 0,
+    "Reach": 0,
+    "Watch Time (min)": 0,
+    "Avg. Watch Time (sec)": 0
+   }
+  },
   {
    "kenh": "facebook",
    "gio": "2026-11-27T12:31:14.000Z",
@@ -19,10 +74,10 @@
    "trang_thai": "sent",
    "noi_dung": "Anh em thợ đang cần cắt thành phẩm? Gửi cho anh em thợ đang cần 👇\nHành trình xưởng Minh Ki",
    "so_lieu": {
-    "Reactions": 0,
+    "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0
+    "Eng. Rate": 0.16,
+    "Video Views": 620
    }
   },
   {
@@ -34,8 +89,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 0,
-    "Reach": 0,
+    "Impressions": 42,
+    "Reach": 24,
     "Shares": 0,
     "Clicks": 0
    }
@@ -46,14 +101,14 @@
    "trang_thai": "sent",
    "noi_dung": "Nhận cắt laser ống hộp cho anh em thợ – gia công sắt inox Bắc Ninh. Tập 12 #cokhiminhkien ",
    "so_lieu": {
-    "Reactions": 0,
+    "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 0,
-    "Video Views": 0,
+    "Eng. Rate": 3.41,
+    "Video Views": 88,
     "Shares": 0,
     "Reach": 0,
-    "Watch Time (min)": 0,
-    "Avg. Watch Time (sec)": 0
+    "Watch Time (min)": 7.7,
+    "Avg. Watch Time (sec)": 4.72
    }
   },
   {
@@ -88,9 +143,9 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.42,
-    "Impressions": 239,
-    "Reach": 205,
+    "Eng. Rate": 0.41,
+    "Impressions": 242,
+    "Reach": 208,
     "Shares": 0,
     "Clicks": 0
    }
@@ -101,14 +156,14 @@
    "trang_thai": "sent",
    "noi_dung": "Làm cổng sắt mới cho nhà cưới – cắt laser ống hộp, gia công sắt inox Bắc Ninh. Tập 12 #cok",
    "so_lieu": {
-    "Reactions": 2,
+    "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 2.38,
-    "Video Views": 84,
+    "Eng. Rate": 3.26,
+    "Video Views": 92,
     "Shares": 0,
     "Reach": 38,
-    "Watch Time (min)": 7.98,
-    "Avg. Watch Time (sec)": 4.52
+    "Watch Time (min)": 8.18,
+    "Avg. Watch Time (sec)": 4.28
    }
   },
   {
@@ -119,8 +174,8 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0.13,
-    "Video Views": 773
+    "Eng. Rate": 0.12,
+    "Video Views": 840
    }
   },
   {
@@ -209,12 +264,12 @@
    "so_lieu": {
     "Reactions": 5,
     "Comments": 0,
-    "Eng. Rate": 4.63,
-    "Video Views": 108,
+    "Eng. Rate": 4.5,
+    "Video Views": 111,
     "Shares": 0,
     "Reach": 106,
-    "Watch Time (min)": 10.5,
-    "Avg. Watch Time (sec)": 4.85
+    "Watch Time (min)": 10.95,
+    "Avg. Watch Time (sec)": 4.94
    }
   },
   {
@@ -280,12 +335,12 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 1.1,
-    "Video Views": 91,
+    "Eng. Rate": 1.06,
+    "Video Views": 94,
     "Shares": 0,
     "Reach": 88,
-    "Watch Time (min)": 6,
-    "Avg. Watch Time (sec)": 3.22
+    "Watch Time (min)": 6.23,
+    "Avg. Watch Time (sec)": 3.28
    }
   },
   {
@@ -297,8 +352,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 90,
-    "Reach": 84,
+    "Impressions": 91,
+    "Reach": 85,
     "Shares": 0,
     "Clicks": 0
    }
@@ -953,8 +1008,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 327,
-    "Reach": 296,
+    "Impressions": 329,
+    "Reach": 299,
     "Shares": 0,
     "Clicks": 0
    }
@@ -1073,8 +1128,8 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Impressions": 387,
-    "Reach": 322,
+    "Impressions": 393,
+    "Reach": 327,
     "Shares": 0,
     "Clicks": 0
    }
@@ -1173,8 +1228,8 @@
    "so_lieu": {
     "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 1.27,
-    "Video Views": 158,
+    "Eng. Rate": 1.25,
+    "Video Views": 160,
     "Shares": 0,
     "Reach": 158,
     "Watch Time (min)": 12.48,
@@ -1201,8 +1256,8 @@
    "so_lieu": {
     "Reactions": 3,
     "Comments": 0,
-    "Eng. Rate": 1.61,
-    "Video Views": 186,
+    "Eng. Rate": 1.6,
+    "Video Views": 187,
     "Shares": 0,
     "Reach": 185,
     "Watch Time (min)": 23.95,
@@ -1425,8 +1480,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 2.47,
-    "Video Views": 162,
+    "Eng. Rate": 2.45,
+    "Video Views": 163,
     "Shares": 0,
     "Reach": 159,
     "Watch Time (min)": 16.85,
@@ -1453,8 +1508,8 @@
    "so_lieu": {
     "Reactions": 5,
     "Comments": 0,
-    "Eng. Rate": 0.99,
-    "Video Views": 507,
+    "Eng. Rate": 0.97,
+    "Video Views": 515,
     "Shares": 0,
     "Reach": 427,
     "Watch Time (min)": 36.78,
@@ -1481,8 +1536,8 @@
    "so_lieu": {
     "Reactions": 2,
     "Comments": 0,
-    "Eng. Rate": 1.37,
-    "Video Views": 146,
+    "Eng. Rate": 1.36,
+    "Video Views": 147,
     "Shares": 0,
     "Reach": 141,
     "Watch Time (min)": 8.28,
@@ -1509,8 +1564,8 @@
    "so_lieu": {
     "Reactions": 4,
     "Comments": 0,
-    "Eng. Rate": 2.53,
-    "Video Views": 158,
+    "Eng. Rate": 2.52,
+    "Video Views": 159,
     "Shares": 0,
     "Reach": 158,
     "Watch Time (min)": 16.55,
@@ -1689,12 +1744,12 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 1,
-    "Eng. Rate": 5.67,
-    "Video Views": 141,
+    "Eng. Rate": 5.63,
+    "Video Views": 142,
     "Shares": 1,
-    "Reach": 138,
-    "Watch Time (min)": 12.17,
-    "Avg. Watch Time (sec)": 4.9
+    "Reach": 139,
+    "Watch Time (min)": 12.23,
+    "Avg. Watch Time (sec)": 4.89
    }
   },
   {
@@ -1745,8 +1800,8 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 2,
-    "Eng. Rate": 3.91,
-    "Video Views": 281,
+    "Eng. Rate": 3.89,
+    "Video Views": 283,
     "Shares": 3,
     "Reach": 266,
     "Watch Time (min)": 19.12,
@@ -1774,7 +1829,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 127,
+    "Video Views": 128,
     "Shares": 0,
     "Reach": 126,
     "Watch Time (min)": 7.33,
@@ -1816,9 +1871,9 @@
     "Eng. Rate": 1.38,
     "Video Views": 145,
     "Shares": 0,
-    "Reach": 144,
+    "Reach": 145,
     "Watch Time (min)": 8.17,
-    "Avg. Watch Time (sec)": 2.92
+    "Avg. Watch Time (sec)": 2.9
    }
   },
   {
@@ -1829,8 +1884,8 @@
    "so_lieu": {
     "Reactions": 8,
     "Comments": 0,
-    "Eng. Rate": 5.36,
-    "Video Views": 168,
+    "Eng. Rate": 5.33,
+    "Video Views": 169,
     "Shares": 1,
     "Reach": 153,
     "Watch Time (min)": 13.88,
@@ -1857,8 +1912,8 @@
    "so_lieu": {
     "Reactions": 6,
     "Comments": 1,
-    "Eng. Rate": 3.9,
-    "Video Views": 205,
+    "Eng. Rate": 3.85,
+    "Video Views": 208,
     "Shares": 1,
     "Reach": 187,
     "Watch Time (min)": 17.88,
@@ -1998,7 +2053,7 @@
     "Reactions": 0,
     "Comments": 0,
     "Eng. Rate": 0,
-    "Video Views": 210
+    "Video Views": 211
    }
   },
   {
@@ -2345,7 +2400,7 @@
    "so_lieu": {
     "Reactions": 1,
     "Comments": 0,
-    "Eng. Rate": 0,
+    "Eng. Rate": 0.4,
     "Video Views": 251
    }
   },
