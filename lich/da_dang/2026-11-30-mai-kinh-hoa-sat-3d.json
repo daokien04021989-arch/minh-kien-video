@@ -1,0 +1,14 @@
+{
+ "tiktok": {
+  "id": "6b0a8f6efe7140cdaca02f0d",
+  "dueAt": "2026-11-30T04:00:00.000Z"
+ },
+ "youtube": {
+  "id": "6b0a8f6ed7e53b12ebede39c",
+  "dueAt": "2026-11-30T04:00:00.000Z"
+ },
+ "facebook": {
+  "id": "6b0a8f6ffe7140cdaca02f49",
+  "dueAt": "2026-11-30T04:00:00.000Z"
+ }
+}
