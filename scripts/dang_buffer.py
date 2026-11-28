@@ -36,6 +36,22 @@ def create(inp):
         return res["post"]
     raise RuntimeError(res.get("message", str(res)))
 
+DEL = """mutation($input: DeletePostInput!){ deletePost(input:$input){ __typename ... on MutationError { message } } }"""
+
+def huy_bai(job, done):
+    """Gỡ bài đã hẹn trước đó (job["huy_cu"] = danh sách id bài Buffer) để thay bằng video mới."""
+    da = done.setdefault("_da_huy", [])
+    for pid in job.get("huy_cu", []):
+        if pid in da:
+            continue
+        try:
+            r = gql(DEL, {"input": {"id": pid}})["deletePost"]
+            if r.get("message"):
+                raise RuntimeError(r["message"])
+            da.append(pid); done.get("_loi_huy", {}).pop(pid, None); print("đã gỡ bài cũ", pid)
+        except Exception as e:
+            done.setdefault("_loi_huy", {})[pid] = str(e)[:300]; print("LỖI gỡ bài", pid, e)
+
 now = dt.datetime.now(dt.timezone.utc)
 os.makedirs("lich/da_dang", exist_ok=True)
 loi = 0
@@ -44,10 +60,18 @@ for f in sorted(glob.glob("lich/*.json")):
     done_path = f"lich/da_dang/{name}"
     job = json.load(open(f, encoding="utf-8"))
     done = json.load(open(done_path, encoding="utf-8")) if os.path.exists(done_path) else {}
+    if job.get("huy_cu"):
+        huy_bai(job, done)
+        for p in list(done):
+            if isinstance(done[p], dict) and done[p].get("id") in job["huy_cu"]:
+                del done[p]      # bài cũ đã gỡ -> hẹn lại bằng video mới
     due = dt.datetime.fromisoformat(job["due_at"]).astimezone(dt.timezone.utc)
     if due < now + dt.timedelta(minutes=10):
         due = now + dt.timedelta(minutes=15)   # quá giờ thì đăng ngay sau 15 phút
     due_s = due.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    if done.get("_loi_huy"):
+        print(name, "→ chưa gỡ được bài cũ, không hẹn bài mới để tránh đăng trùng"); loi += 1
+        json.dump(done, open(done_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1); continue
     for p in job.get("platforms", ["tiktok", "youtube", "facebook"]):
         if done.get(p, {}).get("id"):
             continue
